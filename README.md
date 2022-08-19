@@ -1,2 +1,1 @@
-# rsschool-cv
-https://vlad-moskalenko.github.io/rsschool-cv/
+https://vlad-moskalenko-cv-stage0.netlify.app/
